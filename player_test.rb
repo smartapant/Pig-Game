@@ -29,6 +29,9 @@ until game.over?
     player.add_points(turn.points)
     puts "You got #{turn.points} points this turn."
     puts "You have #{player.points} points total.\n\n\n"
+    puts "fafadsfdsgfdsfs"
+    puts "fafadsfdsgfdsfs"
+    puts "fafadsfdsgfdsfs"
   end
 end
 

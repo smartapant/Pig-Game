@@ -3,4 +3,7 @@ class Die
   def roll!
     @roll=rand(1..6)
   end
+  def ffdsf
+
+  end
 end
